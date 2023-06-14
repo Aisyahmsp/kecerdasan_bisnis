@@ -8,7 +8,7 @@ import pickle
 from sklearn import metrics
 
 st.set_page_config(
-    page_title="Project kecerdasan Bisnis"
+    page_title="Project"
 )
 
 tab1, tab2 = st.tabs(["Dataset", "Implementation"])
